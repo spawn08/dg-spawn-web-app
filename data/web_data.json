@@ -1,0 +1,80 @@
+{
+  "nav_bar": {
+    "title": "We promise to bring the best solution for your business.",
+    "subtitle": "Scale your business with Chat bots and AI",
+    "button_text": "CONTACT US"
+  },
+  "services": {
+    "title": "Turn Natural Language into Actions.",
+    "subtitle": "SpawN AI makes it easy for businesses to build applications that you can talk or text to. SpawN AI learns from every interaction with users.",
+    "subtitle1": "In order to help a customer effectively, your support agent can speak to at most 2 users at a time. Chatbot can be around 24/7 to all 1000 customers at once. Chat bots helps to scale the business.",
+    "button_text": "LEARN MORE"
+  },
+  "about": {
+    "title": "Explore The Services \n We Offer For You",
+    "subtitle": "Chat bots represents the next evolution in Natural Language Processing. And they provide a cheap and effective way to answer simple questions and provide a 24/7 access point between businesses and customers."
+  },
+  "sentiment": {
+    "title": "Sentiment Analysis",
+    "subtitle": "With the help of Chat bots, you can now extract information related to your brand, know the intensity of customers likes or dislikes"
+  },
+  "ner": {
+    "title": "Named Entity Recognition",
+    "subtitle": "Named Entity Recognition can automatically scan entire articles and reveal which are the major people, organizations, and places discussed in articles."
+  },
+  "intent": {
+    "title": "Intent Classification",
+    "subtitle": "Chat bots are making major waves in the digitally empowered business and tech world today. Moreover with chatbot abilities, conversations are contextual while delivering better user experiences has made chatbot development to become an in-demand area of practice."
+  },
+  "sdk": {
+    "title": "Light Weight Android SDK",
+    "subtitle": "SpawN AI offers light weight Android SDK for developing chat bots within your android app."
+  },
+  "analytics": {
+    "title": "Analytics",
+    "subtitle": "SpawN AI offers analytics of your chat bots interaction with the customers. This helps businesses to evaluate on key metrics and take affirmative actions."
+  },
+  "pricing": {
+    "title": "Affordable Pricing",
+    "subtitle": "The businesses can develop the voice assistant with first 50 intents to be free through web portal. COMING SOON"
+  }, 
+  "easy": {
+    "title": "Easy To Use",
+    "subtitle": "Making chat bots with SpawN AI is super easy. Develop bot understanding through web portal and integrate in your application using REST api/Bot SDK(Only Android)."
+  },
+  "support": {
+    "title": "Free Support",
+    "subtitle": "Got a problem? \n Email us at care.spawnai@gmail.com."
+  },
+  "latest_news": [
+    {
+      "title": "Chat bots May Be Healthcare’s Artificial Intelligence Entry Point",
+      "subtitle": "Chat bots and virtual assistants may offer healthcare organizations a low-cost entry point into the burgeoning world of artificial intelligence, indicates a new cross-industry survey conducted by Spiceworks.  . . . ",
+      "url": "https://healthitanalytics.com/news/chatbots-may-be-healthcares-artificial-intelligence-entry-point",
+      "read_more": "Read More",
+      "img_url": "static/images/news2.jpg"
+    },
+    {
+      "title": "The New Missiles for Transforming the Customer Experience",
+      "subtitle": "Have you ever sent off an email to customer service only to never receive a reply or have you made a repeat purchase from a brand that treated you this way? If yes, I bet you are just doing you have to use influencer  . . .",
+      "url": "https://chatbotsjournal.com/chatbots-the-new-missiles-for-transforming-the-customer-experience-525500554dfb",
+      "read_more": "Read More",
+      "img_url":"https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-517899146.jpg"
+    },
+    {
+      "title": "How Businesses are Winning with Chatbots & AI",
+      "subtitle": "Businesses are finally starting to get value out of using chatbots. Companies like Sephora, Nitro Cafe, 1–800 Flowers, Marriott, Snap-Travel, and Coca-Cola are starting to see returns.  . . . ",
+      "url": "https://chatbotslife.com/how-businesses-are-winning-with-chatbots-ai-5df2f6304f81",
+      "read_more": "Read More",
+      "img_url":"https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-670909514.jpg"
+    },
+    {
+      "title": "4 Ways Businesses Are Using Chatbots to Drive Real Business",
+      "subtitle": "One of the biggest struggles in marketing is deciding what tools and channels to use. Ask one person and they’ll swear by Facebook ads. Another will tell you that you have to use influencer  . . .",
+      "url": "https://chatbotsjournal.com/4-ways-businesses-are-using-chatbots-to-drive-real-business-results-e326519127cd",
+      "read_more": "Read More",
+      "img_url": "static/images/news2.jpg"
+    }
+  ],
+  "rights_reserved": " 2019. All Rights Reserved."
+}
